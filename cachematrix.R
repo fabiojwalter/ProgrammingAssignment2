@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+##The functions below are a way to consume less resources in a computation process 
+##to invert a matrix, does it using cache to store already inverted matrixes
 
 ## In this function a special matrix is created to invert and keep in cache 
 ## the value of a inverted matrix
